@@ -3,7 +3,7 @@ Edited and Improved by Mehrpouya
 
 ## Install
 ```bash
-git clone https://github.com/TABCHI/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/saleh6020/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
@@ -26,9 +26,8 @@ use `./telegamer.sh ` for Autolaunch
 
 ## Developers
 
- * [Mehrpouya](https://telegram.me/Mehrpouya)
- * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
-
+ * [BotXlinkHELP](https://telegram.me/BotXlinkHELP)
+ * [پیامرسان](https://telegram.me/PVXlinkGPbot)
+ 
 ### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
 ### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
